@@ -1,2 +1,1 @@
-# itwill_java
-itwill JAVA
+# itwill JAVA
